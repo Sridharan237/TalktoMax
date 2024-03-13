@@ -1,0 +1,12 @@
+python project === Talk to MAX
+
+1.input voice command 
+2.speech_recognition library converts our input voice into text 
+3.and checks whether the each words in the input voice or our speech matches with our keywords 
+4.if it matches do 
+   i.play youtube song
+   ii.wikipedia
+   iii.pyjokes ---> get joke
+5.or else , if the words in our input voice does not match with the given keywords 
+  then they will do nothing
+
